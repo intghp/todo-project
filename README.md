@@ -13,4 +13,6 @@
 - python manage.py createsuperuser
 - python manage.py runserver
 
-# Setting UP APIs
+# Setting Up Frontend
+- npx create-react-app frontend
+- cd frontend / npm start
