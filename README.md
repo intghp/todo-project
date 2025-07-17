@@ -12,7 +12,3 @@
 - python manage.py migrate todo
 - python manage.py createsuperuser
 - python manage.py runserver
-
-# Setting Up Frontend
-- npx create-react-app frontend
-- cd frontend / npm start
