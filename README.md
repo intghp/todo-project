@@ -7,8 +7,10 @@
 - python manage.py migrate
 - python manage.py runserver
 
-# Setting up Backend
+# Setting Up Backend
 - python manage.py makemigrations todo
 - python manage.py migrate todo
 - python manage.py createsuperuser
 - python manage.py runserver
+
+# Setting UP APIs
